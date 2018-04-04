@@ -1,3 +1,5 @@
+// create message
+// ¼Õ¿µ¹Î
 package my_portfolio1;
 
 public class my_portfolio1 {
